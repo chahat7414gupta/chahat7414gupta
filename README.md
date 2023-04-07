@@ -1,4 +1,4 @@
-![logo](https://github.com/chahat7414gupta/chahat7414gupta/blob/main/my%20banner.png)
+![logo](https://github.com/chahat7414gupta/chahat7414gupta/blob/main/MY%20NEW%20BANNER.png)
 <h1 align="center">Hi 👋, I'm CHAHAT GUPTA</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif">
